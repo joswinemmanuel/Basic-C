@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// my technique check best code in geeksforgeeks
+
 int main(){
     int arr[5];
     int n=5,temp;
